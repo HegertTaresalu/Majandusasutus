@@ -1,0 +1,14 @@
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.exe
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.deps.json
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.runtimeconfig.json
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.runtimeconfig.dev.json
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.dll
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\bin\Debug\netcoreapp3.1\KordamineMajandusAsutus.pdb
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.dll
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.pdb
+C:\Users\opilane\Source\Repos\KordamineMajandusAsutus\KordamineMajandusAsutus\obj\Debug\netcoreapp3.1\KordamineMajandusAsutus.genruntimeconfig.cache
